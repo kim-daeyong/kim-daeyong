@@ -10,6 +10,7 @@
  
   <img src="http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://https://kim-daeyong.github.io/">  
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy2353@gmail.com"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daeyong-kim-657050184/"> 
   <br>
  
 </div>
