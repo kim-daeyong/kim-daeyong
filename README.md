@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kim-daeyong&theme=react&&hide=contribs,prs,earned)](https://github.com/kim-daeyong/github-readme-stats"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kim-daeyong&theme=react)](https://github.com/kim-daeyong/github-readme-stats"/>
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-daeyong&theme=react&layout=compact&hide=html,css,scss,c,mustache,ruby&count_private=true"/> -->
   
   ### Kim Daeyong
