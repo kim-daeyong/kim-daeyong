@@ -2,11 +2,11 @@
   
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=kim-daeyong&theme=react)](https://github.com/kim-daeyong/github-readme-stats"/>
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-daeyong&theme=react&layout=compact&hide=html,css,scss,c,mustache,ruby&count_private=true"/> -->
-   <div style="float:right; width: 50%">
+<!--    <div style="float:right; width: 50%">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>  
-  </div>
+  </div> -->
   
 <!--   <div style="float:left; width: 50%"> -->
   
