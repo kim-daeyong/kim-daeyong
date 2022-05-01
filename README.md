@@ -1,14 +1,13 @@
 <div align="center">
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kim-daeyong&theme=react)](https://github.com/kim-daeyong/github-readme-stats"/>
+  <table><tr><td valign="top" width="50%">
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api?username=kim-daeyong&theme=react)](https://github.com/kim-daeyong/github-readme-stats"/> -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-daeyong&theme=react&layout=compact&hide=html,css,scss,c,mustache,ruby&count_private=true"/> -->
-<!--    <div style="float:right; width: 50%">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>  
-  </div> -->
   
-<!--   <div style="float:left; width: 50%"> -->
+    
+   </td><td valign="top" width="50%">
   
   ### Kim Daeyong
 
@@ -20,7 +19,6 @@
   <a href="mailto:kdy2353@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy2353@gmail.com"/></a>
   <a href="https://www.linkedin.com/in/daeyong-kim-657050184/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daeyong-kim-657050184/"></a>
   <br>
-
-<!--   </div> -->
+</td></tr></table>  
  
 </div>
