@@ -6,9 +6,9 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>  
-  </div>  -->
+  </div> -->
   
-<!--   <div align="left"> -->
+  <div style="float:left">
   
   ### Kim Daeyong
 
@@ -21,6 +21,6 @@
   <a href="https://www.linkedin.com/in/daeyong-kim-657050184/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daeyong-kim-657050184/"></a>
   <br>
 
-<!--   </div> -->
+  </div>
  
 </div>
