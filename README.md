@@ -2,7 +2,7 @@
   
 <!-- <table><tr><td valign="top" width="50%">   -->
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=kim-daeyong&theme=react)](https://github.com/kim-daeyong/github-readme-stats"/>
-<!--   [![grapg](https://activity-graph.herokuapp.com/graph?username=kim-daeyong&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=kim-daeyong&theme=rogue"/> -->
 <!--   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-daeyong&theme=react&layout=compact&hide=html,css,scss,c,mustache,ruby&count_private=true"/> -->
   
