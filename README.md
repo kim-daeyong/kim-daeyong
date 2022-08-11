@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- <table><tr><td valign="top" width="50%">   -->
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kim-daeyong&theme=react)](https://github.com/kim-daeyong/github-readme-stats"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kim-daeyong&theme=react&count_private=true)](https://github.com/kim-daeyong/github-readme-stats"/>
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=kim-daeyong&theme=rogue"/> -->
 <!--   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-daeyong&theme=react&layout=compact&hide=html,css,scss,c,mustache,ruby&count_private=true"/> -->
@@ -19,7 +19,7 @@
     
     
 <!--    </td><td valign="top" width="50%"> -->
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-daeyong&layout=compact&langs_count=10&hide=html)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-daeyong&layout=compact&langs_count=10&hide=html&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
