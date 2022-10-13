@@ -12,7 +12,7 @@
 
   ---
 
-  <a href="https://github.com/Kim-Daeyong"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-daeyong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)"/></a>
+<!--  <a href="https://github.com/Kim-Daeyong"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-daeyong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)"/></a> -->
 
   <a href="https://kim-daeyong.github.io/"><img src="http://img.shields.io/badge/Blog-black?style=flat-square&logo=github&link=https://kim-daeyong.github.io/"></a><a href="mailto:kdy2353@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy2353@gmail.com"/></a><a href="https://www.linkedin.com/in/daeyong-kim-657050184/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daeyong-kim-657050184/"></a>
   <br>
